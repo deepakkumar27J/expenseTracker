@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("expenseTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022fd59fc3850d4e7cee8f230beb5df1352d6b00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe53f856750424c5e1cfddc5b1109b077272d19")]
 [assembly: System.Reflection.AssemblyProductAttribute("expenseTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("expenseTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
