@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nvErRSfKDY2hlIo348AldQwcmvWSTzjPh43HCha6xfJEMRWj/hY+7+tKhsgcSbyhPSblX5trzu3GV9doVw1PcQ==",
+  "dgSpecHash": "Z8ppS4Cm7aUhhOR/s+hQl4ZQ8jmzPy2xigj7uj3jGjMrBd2UJMORKM2lqvIJqk9PMB5L1KiJaxxhQ5w3jrE6mA==",
   "success": true,
   "projectFilePath": "F:\\Learning\\ASPNET\\Web\\expenseTracking\\expenseTracker\\expenseTracker.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
